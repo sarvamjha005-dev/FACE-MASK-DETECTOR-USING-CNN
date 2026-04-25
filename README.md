@@ -1,8 +1,7 @@
 # FACE-MASK-DETECTOR-USING-CNN
 FACE MASK DETECTOR USING CNN
 
-INTRO:
-Detects whether a person is wearing a face mask using real time webacam input /live video  .
+INTRO:-Detects whether a person is wearing a face mask using real time webcam input/live video input.
 
 Structure :-
 
