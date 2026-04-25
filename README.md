@@ -14,5 +14,6 @@ Components and flow explained :-
 4)Anaconda :-For setting up the live webcam/video input environmwnt
 
 Working:
-Mask detector trains on the images in dataset to learn mask detection.Face detector learns to find human face in a video input
+Mask detector trains on the images in dataset to learn mask detection.Face detector learns to find human face in a video input.
 Integration of mask detector and Face detector allows us to detect whether a person in the video input is wearing a mask or not
+in real-time
