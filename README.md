@@ -9,7 +9,7 @@ Components and flow explained :-
 
 2)training_mask_detector_on_image:-This is our mask detector .This part of the model is trained on a dataset .It determnines whether an image has a mask or not.It uses a pretrained MOBILENETV2 and imagenet weights and biases
 
-3)Detect-mask from video:This is the Face detector .It Detects a face when video input/webcam is turned o.It uses openCV 
+3)Detect-mask from video:This is the Face detector .It Detects a face when video input/webcam is turned on.It uses openCV 
 
 4)Anaconda :-For setting up the live webcam/video input environmwnt
 
