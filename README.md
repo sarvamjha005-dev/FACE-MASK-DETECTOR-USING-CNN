@@ -3,13 +3,13 @@ FACE MASK DETECTOR USING CNN
 
 INTRO:-Detects whether a person is wearing a face mask using real time webcam input/live video input.
 
-Structure :-
+Components and flow explained :-
 
 1)DATASET:Uses a dataset with 1915 with mask images and 1918 without mask images
 
-2)MASK DETECTOR :- This part of the model is trained on a dataset .It determnines whether an image has a mask or not.It uses a pretrained MOBILENETV2 and imagenet weights and biases
+2)training_mask_detector_on_image:-This is our mask detector .This part of the model is trained on a dataset .It determnines whether an image has a mask or not.It uses a pretrained MOBILENETV2 and imagenet weights and biases
 
-3)FACE DETECTION:-Detects a face when video input/webcam is turned o.It uses openCV 
+3)Detect-mask from video:This is the Face detector .It Detects a face when video input/webcam is turned o.It uses openCV 
 
 4)Anaconda :-For setting up the live webcam/video input environmwnt
 
